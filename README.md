@@ -1,7 +1,3 @@
-# Udemy-Clone-Website (Advanced Version)
-
-<br>
-
 *********  
 🎓 Udemy Clone Website – Enhanced Edition  
 *********
